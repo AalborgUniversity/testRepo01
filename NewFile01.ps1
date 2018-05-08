@@ -3,5 +3,5 @@ workflow Test-Script01 {
         [string]$data
     )
     
-    "Hello got [" + $data + "]"
+    "Hello! We got [" + $data + "]"
 }
